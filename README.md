@@ -1,3 +1,5 @@
+_This is version v1.0 of THC. The development of this version has been stopped. Please consider moving to the new repository [thc](https://github.com/Drolla/thc)._
+
 **THC**, **Tight Home Control**, provides a multi-protocol and manufacturer-independent automation framework that allows running control tasks, like for example for home automation.
 
 THC has the following features :
